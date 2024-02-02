@@ -1,0 +1,12 @@
+Flask
+flask-cors
+Werkzeug
+PyPDF2
+langchain
+openai
+faiss-cpu
+python-dotenv
+huggingface_hub
+sentence_transformers
+llama-cpp-python
+langchain-community
